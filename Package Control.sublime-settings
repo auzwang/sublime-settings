@@ -10,7 +10,8 @@
 		"GhostText",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
-		"JSHint Gutter",
-		"Package Control"
+		"Package Control",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint"
 	]
 }
