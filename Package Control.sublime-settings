@@ -7,10 +7,13 @@
 	[
 		"AceJump",
 		"Babel",
+		"Markdown Preview",
+		"MJML-syntax",
 		"GhostText",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"Package Control",
+		"Pretty JSON",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint"
 	]
